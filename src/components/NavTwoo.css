@@ -1,0 +1,36 @@
+.logo{
+    height: 50px;
+}
+.list{
+    display: flex;
+    width: 40%;
+    justify-content: space-evenly;
+}
+.main-container{
+    display: flex;
+    align-items: center;
+}
+.beta{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+    background-color: black;
+}
+.loc{
+    width: 100px;
+}
+.loc ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.play{
+    width: 100px;
+}
+.beta ul li{
+    color: white;
+}
+.apple{
+    width: 100px;
+}

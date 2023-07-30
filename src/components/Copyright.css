@@ -1,0 +1,30 @@
+.copyright h1{
+    color:white;
+    font-size: 13px;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width:1519.2px;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    
+}
+
+.lu ul{
+    display: flex;
+    width: 80px;
+    justify-content: space-between;
+}
+
+.lu ul li img{
+    width:25px;
+}
+

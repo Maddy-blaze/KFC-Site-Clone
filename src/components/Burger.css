@@ -1,0 +1,21 @@
+.burger{
+    display: flex;
+    height: 70px;
+align-items: center;
+justify-content: space-evenly;
+margin-top: 50px;
+}
+.hr{
+    display: contents;
+}
+.hr hr{
+    background-color: black;
+    width: 55%;
+    height: 2px;
+}
+
+
+.browse{
+    width: 35%;
+    text-align: end;
+}

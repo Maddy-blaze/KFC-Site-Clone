@@ -1,0 +1,25 @@
+.king{
+    background-color:whitesmoke;
+    margin: 10px 10px 10px 10px;
+}
+.category-container{
+    height:200px;
+    width:25%;
+}
+
+.burger img{
+    width: 100%;
+    height:75%;
+}
+.h2{
+    font-size: 16px; 
+}
+.offer{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.burger{
+    height: auto;
+}
